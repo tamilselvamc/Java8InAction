@@ -3,6 +3,7 @@ package lambdasinaction.chap1;
 import java.util.*;
 import java.util.function.Predicate;
 
+/** Added comment to test github public repo push */
 public class FilteringApples{
 
     public static void main(String ... args){
